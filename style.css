@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Aclonica&family=Bree+Serif&family=Cormorant+Garamond:wght@300&family=Fredoka+One&family=Kanit:wght@700&family=Lemon&family=Lora:wght@700&family=Montserrat:wght@100;300&family=Nunito:wght@200&family=Paytone+One&family=Poppins:wght@600&family=Raleway:wght@100;200&family=Ubuntu:wght@400;700&display=swap');
+
+.logo{
+    margin-left: 400px;
+
+}
+.navbar-nav{
+    font-family: 'Poppins', sans-serif;;
+}
+.navbar-nav a
+{
+    color: rgb(9, 9, 9);
+}
+.navbar-nav .hover:hover{
+
+color: orange;
+}
+.iconsize{
+    font-size: 20px;
+}
